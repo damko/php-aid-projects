@@ -1,13 +1,11 @@
 ## Zibaldone
-
 * [Repo](http://github/damko/zibaldone)
 * [Website]()
+* Type: web application
 
-### Type
-web application
 
 ### Description and aims of the project
-The project should recreate the concept of [Zibaldone](http://en.wikipedia.org/wiki/Commonplace_book#Zibaldone) so it should be able to uses chunks of markdown text, either local or remote, to create html books.
+The project should recreate the concept of [Zibaldone](http://en.wikipedia.org/wiki/Commonplace_book#Zibaldone) so it should be able to uses chunks of markdown text, either local or living remote, to create html books.
 
 The skeleton of the final book should respect Leanpub specifics so that it will be possible to publish the book on Leanpub.
 
@@ -16,7 +14,8 @@ The skeleton of the final book should respect Leanpub specifics so that it will 
 * PHP
 * Slim Framework
 * AngularJs
-* Bootstrap 3
+* Bootstrap
+* Twig
 
 ### Technical notes
 
