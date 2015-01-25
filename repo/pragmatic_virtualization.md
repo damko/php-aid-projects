@@ -21,8 +21,6 @@ The content is ready but I need to give it the final review so it's about 80% re
 
 ### Contributors:
 * [@damko](http://twitter.com/damko)
-* @pippo
-* pluto
 
 ### Looking for:
 A native English speaker to review the content and clean up my Italianish ;-)
