@@ -4,12 +4,11 @@
 * Type: web application
 
 
-### Description and aims of the project
-The project should recreate the concept of [Zibaldone](http://en.wikipedia.org/wiki/Commonplace_book#Zibaldone) so it should be able to uses chunks of markdown text, either local or living remote, to create html books.
+### Description and aims of the project:
+The project should recreate the concept of [Zibaldone](http://en.wikipedia.org/wiki/Commonplace_book#Zibaldone) so it should be able to use chunks of markdown text, either local or living remote, to create html books.
+The skeleton of the final book should respect Leanpub specifics so that the book can be published on Leanpub.
 
-The skeleton of the final book should respect Leanpub specifics so that it will be possible to publish the book on Leanpub.
-
-### Technologies / Languages / Frameworks used
+### Technologies / Languages / Frameworks used:
 
 * PHP
 * Slim Framework
@@ -17,21 +16,21 @@ The skeleton of the final book should respect Leanpub specifics so that it will 
 * Bootstrap
 * Twig
 
-### Technical notes
+### Technical notes:
 
 The application will be developed with AngularJS on the client/UI side, in PHP on the server side. PHP will provide a REST service.
 
-### Status
+### Status:
 
 The application is currently working and can produce books but it doesn't allow yet the editing of the fragments from the UI
 
-### Contributors
+### Contributors:
 * [@damko](http://twitter.com/damko)
 
-### Looking for
+### Looking for:
 Mentors/supervisors for:
-* PHP (refactory needed)
-* PHP REST (refactory needed)
+* PHP (refactoring)
+* PHP REST (refactoring)
 * testing in PHP
 * testing in AngularJS
 * continuous integration
