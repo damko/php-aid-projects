@@ -8,7 +8,7 @@
 The project should recreate the concept of [Zibaldone](http://en.wikipedia.org/wiki/Commonplace_book#Zibaldone) so it should be able to use chunks of markdown text, either local or living remote, to create html books.
 The skeleton of the final book should respect Leanpub specifics so that the book can be published on Leanpub.
 
-### Technologies / Languages / Frameworks used:
+### Technologies / Languages / Frameworks in use:
 
 * PHP
 * Slim Framework

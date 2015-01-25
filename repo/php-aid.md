@@ -8,7 +8,7 @@
 Read the [home page](http://php-aid.org) please :-)
 
 
-### Technologies / Languages / Frameworks used:
+### Technologies / Languages / Frameworks in use:
 not decided yet
 
 ### Status:

@@ -8,7 +8,7 @@
 It's a free short practical manual about virtualization with Vagrant, Packer, Virtualbox and Ansible.
 
 
-### Technologies / Languages / Frameworks used:
+### Technologies / Languages / Frameworks in use:
 * markdown
 
 ### Technical notes:
